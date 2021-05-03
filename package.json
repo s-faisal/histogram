@@ -1,0 +1,22 @@
+{
+  "name": "histogram",
+  "version": "1.0.0",
+  "description": "Generates histogram of a given string in an descending order",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-faisal/histogram.git"
+  },
+  "keywords": [
+    "histogram"
+  ],
+  "author": "Faisal Shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-faisal/histogram/issues"
+  },
+  "homepage": "https://github.com/s-faisal/histogram#readme"
+}
