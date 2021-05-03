@@ -1,6 +1,6 @@
 # histogram
 
-Generates histogram of a given string in an descending order
+Generates histogram of a given string in a descending order
 
 ## Usage
 ```
